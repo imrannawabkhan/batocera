@@ -2,21 +2,21 @@
 Batocera Setup
 
 # SSH Batocera By IP
-User: root/
+User: root\
 Password: linux
 
 # Disk Space
 df -h
 
 # Virtualize
-[Browser] https://www.inspekt.dev/2021/04/13/how-to-resize-virtualbox-hard-disk-vdi-file-virtualbox-resize-hard-disk-error-vbox_e_not_supported/
+[Browser] https://www.inspekt.dev/2021/04/13/how-to-resize-virtualbox-hard-disk-vdi-file-virtualbox-resize-hard-disk-error-vbox_e_not_supported/\
 
-"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" convertdd D:\vms\batocera-x86_64-30-20210302.img D:\vms\Batocera\batocera-x86_64-30-20210302.vdi
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" convertdd D:\vms\batocera-x86_64-30-20210302.img D:\vms\Batocera\batocera-x86_64-30-20210302.vdi\
 
--- 60 GB = 60000
-"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" modifyhd "D:\vms\Batocera\batocera-x86_64-30-20210302.vdi" --resize 60000
+-- 60 GB = 60000\
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" modifyhd "D:\vms\Batocera\batocera-x86_64-30-20210302.vdi" --resize 60000\
 
--- In case you want to increase the Storage Size
+-- In case you want to increase the Storage Size\
 cd C:\Program Files\Oracle\VirtualBox\ 
 #VBoxManage showhdinfo "D:\vms\Batocera\batocera-x86_64-30-20210302.vdi"
 
