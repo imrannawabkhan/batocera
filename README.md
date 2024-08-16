@@ -2,7 +2,7 @@
 Batocera Setup
 
 # SSH Batocera By IP
-User: root
+User: root/
 Password: linux
 
 # Disk Space
