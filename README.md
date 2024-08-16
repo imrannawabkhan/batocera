@@ -84,11 +84,11 @@ $ reboot -n
 06- Enter batocera's IP \\IPADDRESS\share\roms\
 07- [Checked] Include non-Recalbox rom folders\
 08- Press [Enter] to SCAN\
-09- Press [Next]\ to finish\
+09- Press [Next] to finish\
 10- [SELECT] the ROM on LEFT MENU\
-11- [TAB] Media
-12- [Checked] Use specfic configuration for 3DO
-13- [Select] Media Type: Image and  Title Screen
+11- [TAB] Media\
+12- [Checked] Use specfic configuration for 3DO\
+13- [Select] Media Type: Image and  Title Screen\
 14- [Press] the Play Button at the bottom to continue.
 
 # Wii controller setup
