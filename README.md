@@ -99,6 +99,8 @@ F2 - show time for 5 seconds (main Batocera menu and in game)\
 F3 - enable/disable screen reader\
 F4 - reboot Batocera\
 F5 - updates it\
+F6 - Screen Ratio\n
+WIN - Screen Brightness\ 
 SPACE - shows BATOCERA's main menu\
 ENTER - select itens\
 ESC - goes back\
