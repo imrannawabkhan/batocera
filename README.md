@@ -56,7 +56,7 @@ $ reboot -n
 # How to convert a 118GB MAME ROM set down to 11.4GB removing clones, duplicates and unplayable games.
 [Browse] https://www.youtube.com/watch?v=GZfoOTckURA
 
-# Batocera☆Gamecube/Dolphin Emulation Setup Guide
+# Batocera Gamecube/Dolphin Emulation Setup Guide
 [Browse] https://www.youtube.com/watch?v=J9OpYI3Z4Qc
 
 # PSX BIOS
@@ -66,7 +66,30 @@ $ reboot -n
 [Browse] https://androstalker.com/ps3-bios-download-files-emulator-free/
 
 # How to Clone Your Batocera System
-[Browse] https://www.youtube.com/watch?v=KaudH-Qu7UY
+[Browse] https://www.youtube.com/watch?v=KaudH-Qu7UY\
+[Software] AOMEI Partition Assistant 10.4.1
+
+# Download Screenshots/Media for ROMS
+-- Get ScreenScraper Account\
+[Browse] https://www.screenscraper.fr/
+
+-- Download and Install
+[Software] https://www.skraper.net/
+
+01- Login using screenscraper.fr credential\
+02- Press [VALIDATE]\
+03- Press [Next]\
+04- [SELECT] RECALBOX 
+05- Press [Next]\
+06- Enter batocera's IP \\IPADDRESS\share\roms\
+07- [Checked] Include non-Recalbox rom folders\
+08- Press [Enter] to SCAN\
+09- Press [Next]\ to finish\
+10- [SELECT] the ROM on LEFT MENU\
+11- [TAB] Media
+12- [Checked] Use specfic configuration for 3DO
+13- [Select] Media Type: Image and  Title Screen
+14- [Press] the Play Button at the bottom to continue.
 
 # Wii controller setup
 [Browse] https://www.reddit.com/r/batocera/comments/17velcs/custom_pad_profile_dolphin_workaround/
